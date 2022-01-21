@@ -1,1 +1,2 @@
-EXPECTED_BAKE_TIME = 40
+class Lasagna:
+    EXPECTED_BAKE_TIME = 40
