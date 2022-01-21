@@ -1,4 +1,4 @@
-from scripts.guidos_lasagne import *
+from scripts.guidos_lasagna import *
 
 
 def test_expected_baske_time_constant_returns_40():
