@@ -1,7 +1,7 @@
 class Lasagna:
     EXPECTED_BAKE_TIME = 40
 
-    def bake_time_remaining(self, time):
+    def bake_time_remaining(self, time: int) -> int:
         return self.EXPECTED_BAKE_TIME - time
 
     def preparation_time_in_minutes(self, layers: int) -> int:
